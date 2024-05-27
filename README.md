@@ -1,4 +1,4 @@
-##This Is Heading
+## This Is Heading
 
 
 <img width="658" alt="image" src="https://github.com/AMEY0007/IMAGE-STEGANOGRAPHY-USING-LSB-ENCODING-AND-DECODING/assets/168929248/3e7dd6e4-f2db-45f7-a1ab-ca9de937794e">
